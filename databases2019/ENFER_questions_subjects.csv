@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Saúde ambiental e vigilância em saúde;;;False
+10;Sistemas de informação em saúde e comunicação em saúde;;;True
+11;Semiologia e semiotécnica no ciclo vital;Células, tecidos, órgãos e sistemas do corpo humano;;True
+12;Metodologia científica;;;True
+13;Linhas do cuidado (da criança, do adolescente, da mulher, do homem, do adulto, do idoso, do trabalhador);SAE e processo de enfermagem;;True
+14;Linhas do cuidado (da criança, do adolescente, da mulher, do homem, do adulto, do idoso, do trabalhador);Bioética e dilemas éticos;;True
+15;Linhas do cuidado (da criança, do adolescente, da mulher, do homem, do adulto, do idoso, do trabalhador);SAE e processo de enfermagem;Semiologia e semiotécnica no ciclo vital;True
+16;Linhas do cuidado (da criança, do adolescente, da mulher, do homem, do adulto, do idoso, do trabalhador);Políticas de saúde e redes de atenção;Semiologia e semiotécnica no ciclo vital;True
+17;Segurança do paciente e Qualidade em Saúde;Gestão dos serviços, organização e sistemas de saúde;;False
+18;Linhas do cuidado (da criança, do adolescente, da mulher, do homem, do adulto, do idoso, do trabalhador);Educação e pesquisa em saúde e enfermagem;;True
+19;Políticas de saúde e redes de atenção;Gestão dos serviços, organização e sistemas de saúde;;True
+20;Bioética e dilemas éticos;Gestão dos serviços, organização e sistemas de saúde;;True
+21;Linhas do cuidado (da criança, do adolescente, da mulher, do homem, do adulto, do idoso, do trabalhador);Gestão dos serviços, organização e sistemas de saúde;;False
+22;Segurança do paciente e Qualidade em Saúde;Gestão dos serviços, organização e sistemas de saúde;;False
+23;Educação e pesquisa em saúde e enfermagem;;;False
+24;Epidemiologia em saúde;Diagnóstico situacional e territorialização;Saúde mental e atenção psicossocial;True
+25;Linhas do cuidado (da criança, do adolescente, da mulher, do homem, do adulto, do idoso, do trabalhador);Cuidado ao paciente crítico e cirúrgico: urgência, emergência e clínica;;True
+26;Indicadores de saúde;Epidemiologia em saúde;;True
+27;Semiologia e semiotécnica no ciclo vital;Linhas do cuidado (da criança, do adolescente, da mulher, do homem, do adulto, do idoso, do trabalhador);Políticas de saúde e redes de atenção;True
+28;Saúde mental e atenção psicossocial;;;True
+29;Segurança do paciente e Qualidade em Saúde;Cuidado ao paciente crítico e cirúrgico: urgência, emergência e clínica;Gestão dos serviços, organização e sistemas de saúde;True
+30;Cuidado ao paciente crítico e cirúrgico: urgência, emergência e clínica;;;True
+31;História da enfermagem e legislação;;;True
+32;Epidemiologia em saúde;Indicadores de saúde;;False
+33;Tecnologias do cuidado;;;True
+34;Diagnóstico situacional e territorialização;Saúde ambiental e vigilância em saúde;;True
+35;Educação e pesquisa em saúde e enfermagem;;;True

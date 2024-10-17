@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Farmácia comunitária;Saúde pública, epidemiologia e educação em saúde;Assistência e serviços farmacêuticos;True
+10;Farmacologia;Legislação sanitária e profissional;;False
+11;Genética e biologia molecular;;;True
+12;Farmácia hospitalar;;;True
+13;Farmacoepidemiologia e farmacovigilância;;;True
+14;Farmácia comunitária;;;False
+15;Toxicologia e análises toxicológicas;;;True
+16;Farmacognosia e fitoterapia;;;True
+17;Tecnologia de medicamentos, cosméticos e outros produtos para saúde;;;True
+18;Saúde pública, epidemiologia e educação em saúde;;;True
+19;Farmacologia;;;True
+20;Farmácia comunitária;Farmácia clínica;;True
+21;Toxicologia e análises toxicológicas;Legislação sanitária e profissional;;False
+22;Química farmacêutica e medicinal;;;True
+23;Bromatologia e tecnologia de alimentos;Controle físico-químico, biológico e microbiológico e garantia da qualidade;;True
+24;Farmácia hospitalar;Segurança do paciente e biossegurança;;True
+25;Farmacoepidemiologia e farmacovigilância;Gestão farmacêutica e farmacoeconomia;;True
+26;Tecnologia de medicamentos, cosméticos e outros produtos para saúde;;;True
+27;Processos fisiológicos, patológicos, fisiopatológicos e bioquímicos;Análises clínicas;;False
+28;Controle físico-químico, biológico e microbiológico e garantia da qualidade;;;True
+29;Farmácia magistral alopática e homeopática;;;True
+30;Tecnologia de medicamentos, cosméticos e outros produtos para saúde;;;True
+31;Genética e biologia molecular;Análises clínicas;;True
+32;Farmacologia;Farmácia clínica;;True
+33;Farmacognosia e fitoterapia;;;True
+34;Farmacologia;Farmacoepidemiologia e farmacovigilância;;True
+35;Análises clínicas;;;False

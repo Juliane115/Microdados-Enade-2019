@@ -1,0 +1,28 @@
+QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+9;Ciências exatas aplicadas à Biomedicina;Saúde pública e epidemiologia;;True
+10;Estrutura e função dos sistemas órgãos e tecidos;Processos patológicos;;False
+11;Deontologia, bioética e biossegurança;;;True
+12;Deontologia, bioética e biossegurança;;;True
+13;Ciências exatas aplicadas à Biomedicina;Bioquímica;Análises clínicas;True
+14;Bases moleculares e celulares;Farmacologia;;True
+15;Parasitologia;Saúde pública e epidemiologia;;True
+16;Análises clínicas;Hematologia, hemoterapia e banco de sangue;;True
+17;Genética;;;True
+18;Estrutura e função dos sistemas órgãos e tecidos;Processos patológicos;;True
+19;Toxicologia;Saúde pública e epidemiologia;Análise ambiental;True
+20;Processos patológicos;Citopatologia e histoquímica;;True
+21;Microbiologia;Análises clínicas;Biologia molecular;True
+22;Parasitologia;Parasitologia;;False
+23;Imunologia;;;True
+24;Parasitologia;Análise ambiental;;False
+25;Bases moleculares e celulares;Processos patológicos;Biologia molecular;True
+26;Farmacologia;Toxicologia;;True
+27;Análises clínicas;;;True
+28;Hematologia, hemoterapia e banco de sangue;;;True
+29;Bromatologia e microbiologia de alimentos;;;True
+30;;;;False
+31;Análises clínicas;;;True
+32;;;;False
+33;Bases moleculares e celulares;Biologia molecular;;True
+34;Ciências exatas aplicadas à Biomedicina;Análises clínicas;;True
+35;Bases moleculares e celulares;Hematologia, hemoterapia e banco de sangue;;True
